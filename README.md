@@ -1,12 +1,3 @@
-Initial setup:
-
-<pre>
-$ https://github.com/JayedXishan/library_management.git
-$ npm install
-$ npm install mongoose express zod
-$ npm install -D @types/express
-$ npm run dev
-</pre>
 
 API's :
 
@@ -41,3 +32,4 @@ Prerequisites :
 1. node.js
 2. npm
 3. mongoDB
+                               C211012 SYED ARMAN ALAM C211012
